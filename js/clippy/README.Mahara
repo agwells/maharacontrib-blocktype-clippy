@@ -1,0 +1,12 @@
+Clippy.js
+=========
+
+Website: https://github.com/smore-inc/clippy.js
+Version: Git commit 8bfd1f92c7
+
+A library for displaying friendly nostalgic cartoon helpers.
+
+Changes:
+
+  * For compatibility with MochiScript, replaced all calls to
+  * $() with jQuery()
