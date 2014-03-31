@@ -12,7 +12,7 @@
 defined('INTERNAL') || die();
 
 $string['title'] = 'Clippy';
-$string['description'] = 'Display Clippy the helpful clipboard on this page';
+$string['description'] = 'Display Clippy the helpful paperclip on this page';
 
 $string['agentnameBonzi'] = 'Bonzi';
 $string['agentnameClippy'] = 'Clippy';
