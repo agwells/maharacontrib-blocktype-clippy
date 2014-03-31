@@ -27,7 +27,7 @@ In addition to dragging it into the blocktype directory, you'll need to
 add this to your config.php to preload the required CSS stylesheet:
 
 ```php
-$cfg->additionalhtmlhead = "<link rel=\"stylesheet\" type=\"text/css\" href=\"{$cfg->wwwroot}/blocktype/clippy/theme/raw/static/style.css\" media=\"all\">";
+$cfg->additionalhtmlhead = "<link rel=\"stylesheet\" type=\"text/css\" href=\"{$cfg->wwwroot}blocktype/clippy/theme/raw/static/style/style.css\" media=\"all\">";
 ```
 
 ##### Mahara 1.7 and earlier
