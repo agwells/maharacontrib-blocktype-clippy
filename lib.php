@@ -1,10 +1,10 @@
 <?php
 /**
- * Creative Commons License Block type for Mahara
+ * Clippy animated helper block for Mahara
  *
  * @package    mahara
- * @subpackage blocktype-creativecommons
- * @author     Francois Marier <francois@catalyst.net.nz>
+ * @subpackage blocktype-clippy
+ * @author     Aaron Wells <francois@catalyst.net.nz>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL version 3 or later
  * @copyright  For copyright information on Mahara, please see the README file distributed with this software.
  *
