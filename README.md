@@ -5,7 +5,7 @@ A Mahara blocktype that adds a helpful animated helper to your portfolio pages.
 
 ### Description:
 
-Coming out of the 2014 NZ Mahara Hui, one of the main things I 
+Coming out of the [2014 NZ Mahara Hui](https://maharahui.org.nz/), one of the main things I 
 heard from Mahara's users was concerns about usability. They 
 wanted Mahara to be easier to learn, and more fun to use, especially for kids.
 
