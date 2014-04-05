@@ -1,7 +1,7 @@
 maharacontrib-blocktype-clippy
 ==============================
 
-A Mahara blocktype that adds a helpful animated helper to your portfolio pages.
+A [Mahara](https://github.com/MaharaProject/mahara) blocktype that adds a helpful animated helper to your portfolio pages.
 
 ### Description:
 
