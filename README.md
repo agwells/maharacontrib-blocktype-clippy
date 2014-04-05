@@ -71,3 +71,20 @@ A: My usability experts recommend Comic Sans.
 Q: What day is today?
 
 A: It's April 1, 2014. Does that date have some kind of significance?
+
+
+### License & Copyright
+
+Copyright (C) 2014 Aaron Wells
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, version 3 or later of the License.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+THE ABOVE LICENSE IS FOR THE PROGRAM CODE IN THIS PLUGIN ONLY
+All Microsoft agents, including agent names, the Clippy brand and all resources are the property of Microsoft and their respective owners.
