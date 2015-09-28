@@ -1,5 +1,9 @@
 /* Copied from blocktype/clippy/js/clippy/build/clippy.css */
 
+.icon-clippy::before {
+    content: url(\../images/thumb.png);
+}
+
 .clippy, .clippy-balloon {
     position: fixed;
     z-index: 1000;
