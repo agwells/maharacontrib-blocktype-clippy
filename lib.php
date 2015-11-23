@@ -12,6 +12,11 @@
 defined('INTERNAL') || die();
 
 class PluginBlocktypeClippy extends PluginBlocktype {
+
+    public static function get_blocktype_list_icon() {
+        return array('type' => PluginBlocktype::BLOCKTYPE_LIST_ICON_FONTAWESOME, 'icon' => 'paperclip');
+    }
+
 	public static function get_title() {
 		return get_string('title', 'blocktype.clippy');
 	}
